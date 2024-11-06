@@ -1,3 +1,11 @@
+Construcción de una api para ver los usuarios de la aplicación
+donde puede realizar funciones básicas de CRUD
+
+Create
+Read
+Update
+Delete
+
 1. Crear virtual environment python -m venv .venv
 
 2. Activar virtual environment .venv\Scripts\Activate.ps1
